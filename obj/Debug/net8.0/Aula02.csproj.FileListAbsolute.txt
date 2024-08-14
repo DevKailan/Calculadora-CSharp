@@ -1,0 +1,28 @@
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.exe
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.deps.json
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.dll
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.pdb
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.dll
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.pdb
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+C:\Users\aluno.torres\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\ref\Aula02.dll
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.exe
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.deps.json
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.runtimeconfig.json
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.dll
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\bin\Debug\net8.0\Aula02.pdb
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.AssemblyInfo.cs
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.dll
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\refint\Aula02.dll
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.pdb
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\Aula02.genruntimeconfig.cache
+C:\Users\china in box\Desktop\Pastadoprojetinho\Aula02\obj\Debug\net8.0\ref\Aula02.dll
